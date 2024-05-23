@@ -1,0 +1,9 @@
+{
+  "para1": {
+    "url": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/py-pdf/sample-files/main/001-trivial/minimal-document.pdf&embedded=true"
+  },
+  "para2": {
+    "url": "https://jsonplaceholder.typicode.com/users2"
+  }
+  // Add more parameters as needed
+}
