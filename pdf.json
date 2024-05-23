@@ -6,3 +6,20 @@
     "url": "https://jsonplaceholder.typicode.com/users2"
   }
 }
+
+
+[
+  {
+    "id": 1,
+    "url": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/py-pdf/sample-files/main/001-trivial/minimal-document.pdf&embedded=true"
+  },
+  {
+    "id": 2,
+    "url": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/py-pdf/sample-files/main/024-annotations/annotated_pdf.pdf&embedded=true"
+  },
+  {
+    "id": 3,
+    "url": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/py-pdf/sample-files/main/024-annotations/annotated_pdf.pdf&embedded=true"
+  }
+]
+
